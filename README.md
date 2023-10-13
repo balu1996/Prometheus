@@ -1,4 +1,4 @@
-To bring up monitoring stack using docker 
+To bring up monitoring stack using Docker 
 
 #### 1. Prometheus
 
